@@ -6,6 +6,8 @@ https://blog.csdn.net/qq_29647593/article/details/136166769
 
 https://github.com/golang/go/issues/56603
 
+https://www.jianshu.com/p/f3230d5f69df
+
 
 
 # 解读: `_ [0]*T`
